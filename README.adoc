@@ -1,0 +1,22 @@
+= Create a website
+
+== Design
+
+=== Tools
+
+* https://penpot.app/[penpot]
+
+=== Icons
+
+* https://simpleicons.org/[simple icons]
+
+== Web application
+
+=== Python
+
+* https://flask.palletsprojects.com/en/2.2.x/[flask]
+* https://www.djangoproject.com/[django]
+
+== Basics
+
+* https://developer.mozilla.org/en-US/[mozilla documentation]
