@@ -20,3 +20,9 @@
 == Basics
 
 * https://developer.mozilla.org/en-US/[mozilla documentation]
+
+== JavaScript
+
+=== Framework
+
+* https://vuejs.org/tutorial/#step-1[vuejs tutorial]
