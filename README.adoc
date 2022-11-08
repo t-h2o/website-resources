@@ -8,7 +8,13 @@
 
 === Icons
 
+==== Brand
+
 * https://simpleicons.org/[simple icons]
+
+==== All typed of icons
+
+* https://www.svgrepo.com/[svg repo]
 
 == Web application
 
